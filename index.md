@@ -16,6 +16,8 @@ Digital & 3D Printing Inspire New Designs
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+Digital & 3D Printing Inspire New Designs
+<img src="images/3D-thumbnail.png?raw=true"/>
 
 ### Category Name 2
 
