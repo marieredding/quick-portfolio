@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+Feature Articles, Beauty Packaging Magazine
 
-Feature, Beauty Packaging Magazine: Sizing Up the Skincare Market (/sample_page)
+Sizing Up the Skincare Market 
 <img src="images/skincare-thumbnail.png?raw=true"/>
 
 ---
-Feature, Beauty Packaging Magazine: Digital & 3D Printing Inspire New Designs(/pdf/sample_presentation.pdf)
+Digital & 3D Printing Inspire New Designs
 <img src="images/3D-thumbnail.png?raw=true"/>
 
 ---
