@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-Feature, Beauty Packaging Magazine: (/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Feature, Beauty Packaging Magazine: Sizing Up the Skincare Market (/sample_page)
+<img src="images/skincare-thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
